@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChangeTextSize</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="mostrarTexto">Mostrar texto</string>
+    <string name="EscribeUnTexto">Escribe un texto</string>
+    <string name="TextoModificado">No ahi texto</string>
+</resources>
